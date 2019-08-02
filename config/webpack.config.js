@@ -1,6 +1,6 @@
 'use strict';
 
-const {StylableWebpackPlugin} = require('@stylable/webpack-plugin');
+const StylableWebpackPlugin = require('@stylable/webpack-plugin');
 const fs = require('fs');
 const isWsl = require('is-wsl');
 const path = require('path');
