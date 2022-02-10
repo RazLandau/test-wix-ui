@@ -132,7 +132,7 @@
   "devDependencies": {
     "@stylable/core": "^1.0.2",
     "@stylable/webpack-plugin": "^1.0.5",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "stylable": "^5.4.11"
   }
 }
